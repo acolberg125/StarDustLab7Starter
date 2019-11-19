@@ -47,13 +47,10 @@ public class GamePlayTest {
 		try {
 			gp.StartGame();
 		} catch (DeckException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		} catch (HandException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -133,13 +130,10 @@ public class GamePlayTest {
 		try {
 			gp.StartGame();
 		} catch (DeckException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		} catch (HandException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -224,7 +218,6 @@ public class GamePlayTest {
 		} catch (HandException e1) {
 			fail("Hand Exception");
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

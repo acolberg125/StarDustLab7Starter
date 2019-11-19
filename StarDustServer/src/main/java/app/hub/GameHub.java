@@ -78,13 +78,10 @@ public class GameHub extends Hub {
 				try {
 					HubGamePlay.Draw();
 				} catch (DeckException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} catch (HandException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} catch (Exception e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 				
@@ -129,15 +126,12 @@ public class GameHub extends Hub {
 //				resetOutput();
 //				sendToAll(HubPokerTable);
 //			case GameState:
-//				//TODO: Implement this
 //				break;
 //			case StartGameBlackJack:
-//				//TODO: Implement this	
 //				eGameType = eGameType.BLACKJACK;
 //
 //				break;
 //			case Draw:
-//				//TODO: Implement this
 //				break;
 //			}
 
