@@ -89,7 +89,7 @@
                         </HBox>
                         <HBox id="p6Label" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
                            <children>
-                              <Label id="PlayerLabel5" fx:id="PlayerLabel54" />
+                              <Label id="PlayerLabel6" fx:id="PlayerLabel54" />
                            </children>
                         </HBox>
                      </children>
@@ -128,7 +128,7 @@
                         </HBox>
                         <HBox id="p1Label" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
                            <children>
-                              <Label id="PlayerLabel5" fx:id="PlayerLabel51" />
+                              <Label id="PlayerLabel1" fx:id="PlayerLabel51" />
                            </children>
                         </HBox>
                      </children>
@@ -155,7 +155,7 @@
                         </HBox>
                         <HBox id="p2Label" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
                            <children>
-                              <Label id="PlayerLabel5" fx:id="PlayerLabel52" />
+                              <Label id="PlayerLabel2" fx:id="PlayerLabel52" />
                            </children>
                         </HBox>
                      </children>
@@ -182,7 +182,7 @@
                         </HBox>
                         <HBox id="p3Label" alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
                            <children>
-                              <Label id="PlayerLabel5" fx:id="PlayerLabel53" />
+                              <Label id="PlayerLabel3" fx:id="PlayerLabel53" />
                            </children>
                         </HBox>
                      </children>
